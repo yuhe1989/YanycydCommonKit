@@ -1,15 +1,40 @@
 PODS:
-  - YanycydCommonKit (0.1.0)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - Masonry (1.1.0)
+  - MAZeroingWeakRef (1.0)
+  - XMLReader (0.0.2)
+  - YanycydCommonKit (0.1.0):
+    - FMDB
+    - Masonry
+    - MAZeroingWeakRef
+    - XMLReader
+    - YYModel
+  - YYModel (1.0.4)
 
 DEPENDENCIES:
   - YanycydCommonKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - Masonry
+    - MAZeroingWeakRef
+    - XMLReader
+    - YYModel
 
 EXTERNAL SOURCES:
   YanycydCommonKit:
     :path: "../"
 
 SPEC CHECKSUMS:
-  YanycydCommonKit: 2a21d556363e6026518d1a8d1c02d36435e7e6fb
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MAZeroingWeakRef: 8f128c1adc90e0581d4a212c6568a8e0ebba6cf1
+  XMLReader: c7e54b707c368e2fa545d8313276b4de13a36ff5
+  YanycydCommonKit: 7b4e93b3e15ef5048320748d5ca3e66826c7e917
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
 
 PODFILE CHECKSUM: 48a85c67306959530cc7f19066e1ab67e148e4de
 

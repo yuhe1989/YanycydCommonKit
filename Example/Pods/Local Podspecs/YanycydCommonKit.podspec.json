@@ -18,5 +18,26 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "YanycydCommonKit/Classes/**/*"
+  "source_files": "YanycydCommonKit/Classes/**/*",
+  "dependencies": {
+    "FMDB": [
+
+    ],
+    "XMLReader": [
+
+    ],
+    "Masonry": [
+
+    ],
+    "YYModel": [
+
+    ],
+    "MAZeroingWeakRef": [
+
+    ]
+  },
+  "requires_arc": [
+    "ASIHTTPRESQUEST/*.m",
+    "ypackage/JSONKit.m"
+  ]
 }

@@ -7,7 +7,7 @@
 //
 
 #import "CQAreaCode.h"
-#import <FMDB.h>
+#import "FMDB.h"
 #import "AFNetDownloadAreaData.h"
 
 #define TABLENAME       @"umc_areainfo"

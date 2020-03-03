@@ -1,0 +1,6 @@
+framework module MAZeroingWeakRef {
+  umbrella header "MAZeroingWeakRef-umbrella.h"
+
+  export *
+  module * { export * }
+}

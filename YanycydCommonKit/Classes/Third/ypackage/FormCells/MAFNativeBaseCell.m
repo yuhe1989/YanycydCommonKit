@@ -8,7 +8,7 @@
 
 #import "MAFNativeBaseCell.h"
 #import "UIView+YYAdd.h"
-#import <Masonry.h>
+#import "Masonry.h"
 #import "UIColor+AN.h"
 
 #define SCREEN_WIDTH ([UIScreen mainScreen].bounds.size.width)      //屏幕宽度
