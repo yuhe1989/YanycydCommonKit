@@ -7,7 +7,7 @@
 //
 
 #import "MAFNativeTextLayoutCell.h"
-#import <Masonry/Masonry.h>
+#import "Masonry/Masonry.h"
 
 @implementation MAFNativeTextLayoutCell
 
