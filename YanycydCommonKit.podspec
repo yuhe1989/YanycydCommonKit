@@ -39,9 +39,9 @@ TODO: Add long description of the pod here.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
    s.dependency 'FMDB'
-  s.dependency 'XMLReader'
-  s.dependency 'Masonry'
-  s.dependency 'YYModel'
-  s.dependency 'MAZeroingWeakRef'
-  s.requires_arc = ['ASIHTTPRESQUEST/*.m','ypackage/JSONKit.m']
+   s.dependency 'XMLReader'
+   s.dependency 'Masonry'
+   s.dependency 'YYModel'
+   s.dependency 'MAZeroingWeakRef'
+   s.requires_arc = ['ASIHTTPRESQUEST/*.m','ypackage/JSONKit.m']
 end
