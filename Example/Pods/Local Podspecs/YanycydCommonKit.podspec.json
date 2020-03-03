@@ -1,0 +1,22 @@
+{
+  "name": "YanycydCommonKit",
+  "version": "0.1.0",
+  "summary": "A short description of YanycydCommonKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yuhe1989/YanycydCommonKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yuhe1989": "yan1989.code@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/yuhe1989/YanycydCommonKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YanycydCommonKit/Classes/**/*"
+}

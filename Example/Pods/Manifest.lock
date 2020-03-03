@@ -1,0 +1,16 @@
+PODS:
+  - YanycydCommonKit (0.1.0)
+
+DEPENDENCIES:
+  - YanycydCommonKit (from `../`)
+
+EXTERNAL SOURCES:
+  YanycydCommonKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YanycydCommonKit: 2a21d556363e6026518d1a8d1c02d36435e7e6fb
+
+PODFILE CHECKSUM: 48a85c67306959530cc7f19066e1ab67e148e4de
+
+COCOAPODS: 1.8.4

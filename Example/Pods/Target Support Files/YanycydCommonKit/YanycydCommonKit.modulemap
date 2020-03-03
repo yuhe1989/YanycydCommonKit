@@ -1,0 +1,6 @@
+framework module YanycydCommonKit {
+  umbrella header "YanycydCommonKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

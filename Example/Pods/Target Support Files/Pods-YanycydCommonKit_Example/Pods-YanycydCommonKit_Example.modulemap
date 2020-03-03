@@ -1,0 +1,6 @@
+framework module Pods_YanycydCommonKit_Example {
+  umbrella header "Pods-YanycydCommonKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
